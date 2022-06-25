@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-char ch[10][130]={"CHENNAI TO SRM Express","VELACHERY TO THORAIPAKKAM Express","SRM TO VIT Express","MIT TO SRM Express","IIT TO SRM Express","IIM SRM Express"};
+char ch[10][130]={"CHENNAI TO SRM Express","VELACHERY TO THORAIPAKKAM Express","SRM TO VIT Express","MIT TO SRM Express","IIT TO SRM Express","IIM TO SRM Express"};
 char name[32][100]={'\0'};
 char number[32][2]={'\0'};
 int num1[32]={0};
